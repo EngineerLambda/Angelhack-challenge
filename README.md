@@ -6,4 +6,4 @@ The extended automatically generated report is also [included](./pokemonreports.
 
 The dataset used is the same dataset that was linked to the challege and is also in this repository [data](./pokemon.csv)
 
-Code written and submitted by [EngineerLambda](twitter.com/abdulsomad_me)
+Code written and submitted by [EngineerLambda](www.twitter.com/abdulsomad_me)
