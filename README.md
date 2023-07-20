@@ -2,11 +2,11 @@ This is the GitHub repository for my submission for the July 2023 Challenge Stat
 
 All visualization and insight derivation with explanation are include in the Jupyter notebook [file](./pokemon.ipynb)
 
-The extended automatically generated report is also also included as a [file](./pokemonreports.html) and is hosted live on firebase [here]("https://pokemonreports.web.app/")
+The extended automatically generated report is also also included as a [file](./pokemonreports.html) and is hosted live on firebase [here](https://pokemonreports.web.app/)
 
 The dataset used is the same dataset that was linked to the challege and is also in this repository [data](./pokemon.csv)
 
-Code written and submitted by [EngineerLambda]"(www.twitter.com/abdulsomad_me")
+Code written and submitted by [EngineerLambda](https://www.twitter.com/abdulsomad_me)
 
 ## Storytelling
 The dataset used for this analytics project was obtained from [kaggle]() through the Angelhack challenge page
