@@ -2,7 +2,7 @@ This is the GitHub repository for my submission for the July 2023 Challenge Stat
 
 All visualization and insight derivation with explanation are include in the Jupyter notebook [file](./pokemon.ipynb)
 
-The extended automatically generated report is also [included](./pokemonreports.html)
+The extended automatically generated report is also also included as a [file](./pokemonreports.html) and is hosted live on firebase [here]("https://pokemonreports.web.app/")
 
 The dataset used is the same dataset that was linked to the challege and is also in this repository [data](./pokemon.csv)
 
